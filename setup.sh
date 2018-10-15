@@ -38,7 +38,7 @@ cat <<EOF
                               |___/           |_|
 EOF
 
-pip install pyfiglet colorama opencv-python pyobjc-framework-Quartz
+pip install -r requirements.txt
 
 cat <<EOF
  ___   ___  _  _ ___
