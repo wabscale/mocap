@@ -15,4 +15,3 @@
 
 # Maintainer
 - John Cunniff
-- johncunniff1248@gmail.com
